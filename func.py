@@ -34,4 +34,4 @@ def print_passed_students(students:dict[str,int], pass_score:int = 60)->None:
             print(name,score)
             
 print_passed_students(students)
-print_passed_students(students,80)
+print_passed_students(students,90)
